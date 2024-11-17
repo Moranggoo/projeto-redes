@@ -10,7 +10,7 @@ html, body {
   background-color: burlywood;
 }
 body {
-  background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
+  background: url(../imagens/pexels-steve-1509534.jpg) no-repeat top center;
   background-size: cover;
 }
 main {
@@ -34,18 +34,18 @@ main {
   height: 471px;
 }
 #redes {
-  text-align: right;
+  text-align: center;
 }
 #redes img {
   width: 50px;
   margin: 10px;
   border-radius: 50%;
   box-sizing: border-box;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
+  box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.400);
 }
 #redes img:hover {
   border: 1px solid white;
   transform: translate(-5px, -5px);
-  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.400);
+  box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.400);
   transition: transform .3s, border .2s ;
 }
